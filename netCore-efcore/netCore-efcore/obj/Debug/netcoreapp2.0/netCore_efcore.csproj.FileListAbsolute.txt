@@ -1,0 +1,11 @@
+D:\Work\WebApp\Goku\NetCore-learn-demo\netCore-efcore\netCore-efcore\bin\Debug\netcoreapp2.0\netCore_efcore.deps.json
+D:\Work\WebApp\Goku\NetCore-learn-demo\netCore-efcore\netCore-efcore\bin\Debug\netcoreapp2.0\netCore_efcore.runtimeconfig.json
+D:\Work\WebApp\Goku\NetCore-learn-demo\netCore-efcore\netCore-efcore\bin\Debug\netcoreapp2.0\netCore_efcore.runtimeconfig.dev.json
+D:\Work\WebApp\Goku\NetCore-learn-demo\netCore-efcore\netCore-efcore\bin\Debug\netcoreapp2.0\netCore_efcore.dll
+D:\Work\WebApp\Goku\NetCore-learn-demo\netCore-efcore\netCore-efcore\obj\Debug\netcoreapp2.0\netCore_efcore.csprojResolveAssemblyReference.cache
+D:\Work\WebApp\Goku\NetCore-learn-demo\netCore-efcore\netCore-efcore\obj\Debug\netcoreapp2.0\netCore_efcore.csproj.CoreCompileInputs.cache
+D:\Work\WebApp\Goku\NetCore-learn-demo\netCore-efcore\netCore-efcore\obj\Debug\netcoreapp2.0\netCore_efcore.AssemblyInfoInputs.cache
+D:\Work\WebApp\Goku\NetCore-learn-demo\netCore-efcore\netCore-efcore\obj\Debug\netcoreapp2.0\netCore_efcore.AssemblyInfo.cs
+D:\Work\WebApp\Goku\NetCore-learn-demo\netCore-efcore\netCore-efcore\bin\Debug\netcoreapp2.0\netCore_efcore.pdb
+D:\Work\WebApp\Goku\NetCore-learn-demo\netCore-efcore\netCore-efcore\obj\Debug\netcoreapp2.0\netCore_efcore.dll
+D:\Work\WebApp\Goku\NetCore-learn-demo\netCore-efcore\netCore-efcore\obj\Debug\netcoreapp2.0\netCore_efcore.pdb
