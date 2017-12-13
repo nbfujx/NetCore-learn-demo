@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "netCore_swagger", "netCore_swagger\netCore_swagger.csproj", "{CBAA1C3C-42CA-4E3D-9497-DEF95D6F24E1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CBAA1C3C-42CA-4E3D-9497-DEF95D6F24E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBAA1C3C-42CA-4E3D-9497-DEF95D6F24E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBAA1C3C-42CA-4E3D-9497-DEF95D6F24E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBAA1C3C-42CA-4E3D-9497-DEF95D6F24E1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4B03A2E8-40C0-4B5A-BA61-82849B01118A}
+	EndGlobalSection
+EndGlobal

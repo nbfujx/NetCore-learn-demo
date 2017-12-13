@@ -1,0 +1,12 @@
+D:\Work\WebApp\Goku\NetCore-learn-demo\netCore_swagger\netCore_swagger\bin\Debug\netcoreapp2.0\netCore_swagger.deps.json
+D:\Work\WebApp\Goku\NetCore-learn-demo\netCore_swagger\netCore_swagger\bin\Debug\netcoreapp2.0\netCore_swagger.runtimeconfig.json
+D:\Work\WebApp\Goku\NetCore-learn-demo\netCore_swagger\netCore_swagger\bin\Debug\netcoreapp2.0\netCore_swagger.runtimeconfig.dev.json
+D:\Work\WebApp\Goku\NetCore-learn-demo\netCore_swagger\netCore_swagger\bin\Debug\netcoreapp2.0\netCore_swagger.dll
+D:\Work\WebApp\Goku\NetCore-learn-demo\netCore_swagger\netCore_swagger\obj\Debug\netcoreapp2.0\netCore_swagger.csprojResolveAssemblyReference.cache
+D:\Work\WebApp\Goku\NetCore-learn-demo\netCore_swagger\netCore_swagger\obj\Debug\netcoreapp2.0\netCore_swagger.csproj.CoreCompileInputs.cache
+D:\Work\WebApp\Goku\NetCore-learn-demo\netCore_swagger\netCore_swagger\obj\Debug\netcoreapp2.0\netCore_swagger.AssemblyInfoInputs.cache
+D:\Work\WebApp\Goku\NetCore-learn-demo\netCore_swagger\netCore_swagger\obj\Debug\netcoreapp2.0\netCore_swagger.AssemblyInfo.cs
+D:\Work\WebApp\Goku\NetCore-learn-demo\netCore_swagger\netCore_swagger\bin\Debug\netcoreapp2.0\netCore_swagger.xml
+D:\Work\WebApp\Goku\NetCore-learn-demo\netCore_swagger\netCore_swagger\bin\Debug\netcoreapp2.0\netCore_swagger.pdb
+D:\Work\WebApp\Goku\NetCore-learn-demo\netCore_swagger\netCore_swagger\obj\Debug\netcoreapp2.0\netCore_swagger.dll
+D:\Work\WebApp\Goku\NetCore-learn-demo\netCore_swagger\netCore_swagger\obj\Debug\netcoreapp2.0\netCore_swagger.pdb
