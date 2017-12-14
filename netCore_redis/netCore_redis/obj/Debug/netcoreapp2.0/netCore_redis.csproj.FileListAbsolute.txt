@@ -1,0 +1,11 @@
+D:\Work\WebApp\Goku\NetCore-learn-demo\netCore_redis\netCore_redis\bin\Debug\netcoreapp2.0\netCore_redis.deps.json
+D:\Work\WebApp\Goku\NetCore-learn-demo\netCore_redis\netCore_redis\bin\Debug\netcoreapp2.0\netCore_redis.runtimeconfig.json
+D:\Work\WebApp\Goku\NetCore-learn-demo\netCore_redis\netCore_redis\bin\Debug\netcoreapp2.0\netCore_redis.runtimeconfig.dev.json
+D:\Work\WebApp\Goku\NetCore-learn-demo\netCore_redis\netCore_redis\bin\Debug\netcoreapp2.0\netCore_redis.dll
+D:\Work\WebApp\Goku\NetCore-learn-demo\netCore_redis\netCore_redis\obj\Debug\netcoreapp2.0\netCore_redis.csprojResolveAssemblyReference.cache
+D:\Work\WebApp\Goku\NetCore-learn-demo\netCore_redis\netCore_redis\obj\Debug\netcoreapp2.0\netCore_redis.csproj.CoreCompileInputs.cache
+D:\Work\WebApp\Goku\NetCore-learn-demo\netCore_redis\netCore_redis\obj\Debug\netcoreapp2.0\netCore_redis.AssemblyInfoInputs.cache
+D:\Work\WebApp\Goku\NetCore-learn-demo\netCore_redis\netCore_redis\obj\Debug\netcoreapp2.0\netCore_redis.AssemblyInfo.cs
+D:\Work\WebApp\Goku\NetCore-learn-demo\netCore_redis\netCore_redis\bin\Debug\netcoreapp2.0\netCore_redis.pdb
+D:\Work\WebApp\Goku\NetCore-learn-demo\netCore_redis\netCore_redis\obj\Debug\netcoreapp2.0\netCore_redis.dll
+D:\Work\WebApp\Goku\NetCore-learn-demo\netCore_redis\netCore_redis\obj\Debug\netcoreapp2.0\netCore_redis.pdb
