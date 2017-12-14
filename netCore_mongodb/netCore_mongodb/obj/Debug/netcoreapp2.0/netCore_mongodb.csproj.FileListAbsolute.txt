@@ -1,0 +1,8 @@
+D:\Work\WebApp\Goku\NetCore-learn-demo\netCore_mongodb\netCore_mongodb\bin\Debug\netcoreapp2.0\netCore_mongodb.deps.json
+D:\Work\WebApp\Goku\NetCore-learn-demo\netCore_mongodb\netCore_mongodb\bin\Debug\netcoreapp2.0\netCore_mongodb.runtimeconfig.json
+D:\Work\WebApp\Goku\NetCore-learn-demo\netCore_mongodb\netCore_mongodb\bin\Debug\netcoreapp2.0\netCore_mongodb.runtimeconfig.dev.json
+D:\Work\WebApp\Goku\NetCore-learn-demo\netCore_mongodb\netCore_mongodb\bin\Debug\netcoreapp2.0\netCore_mongodb.dll
+D:\Work\WebApp\Goku\NetCore-learn-demo\netCore_mongodb\netCore_mongodb\obj\Debug\netcoreapp2.0\netCore_mongodb.csprojResolveAssemblyReference.cache
+D:\Work\WebApp\Goku\NetCore-learn-demo\netCore_mongodb\netCore_mongodb\obj\Debug\netcoreapp2.0\netCore_mongodb.csproj.CoreCompileInputs.cache
+D:\Work\WebApp\Goku\NetCore-learn-demo\netCore_mongodb\netCore_mongodb\obj\Debug\netcoreapp2.0\netCore_mongodb.AssemblyInfoInputs.cache
+D:\Work\WebApp\Goku\NetCore-learn-demo\netCore_mongodb\netCore_mongodb\obj\Debug\netcoreapp2.0\netCore_mongodb.AssemblyInfo.cs
