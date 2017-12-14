@@ -8,6 +8,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Options;
+using MongoDB.Driver;
 
 namespace netCore_mongodb
 {
@@ -24,6 +25,8 @@ namespace netCore_mongodb
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddMvc();
+            //添加mongodb依赖
+            services.AddSingleton(new MongoClient(Configuration.GetSection("Mongo:ConnectionString").Value));
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

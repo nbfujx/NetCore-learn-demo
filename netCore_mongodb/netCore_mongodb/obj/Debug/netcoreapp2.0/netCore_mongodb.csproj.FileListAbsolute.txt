@@ -6,3 +6,6 @@ D:\Work\WebApp\Goku\NetCore-learn-demo\netCore_mongodb\netCore_mongodb\obj\Debug
 D:\Work\WebApp\Goku\NetCore-learn-demo\netCore_mongodb\netCore_mongodb\obj\Debug\netcoreapp2.0\netCore_mongodb.csproj.CoreCompileInputs.cache
 D:\Work\WebApp\Goku\NetCore-learn-demo\netCore_mongodb\netCore_mongodb\obj\Debug\netcoreapp2.0\netCore_mongodb.AssemblyInfoInputs.cache
 D:\Work\WebApp\Goku\NetCore-learn-demo\netCore_mongodb\netCore_mongodb\obj\Debug\netcoreapp2.0\netCore_mongodb.AssemblyInfo.cs
+D:\Work\WebApp\Goku\NetCore-learn-demo\netCore_mongodb\netCore_mongodb\bin\Debug\netcoreapp2.0\netCore_mongodb.pdb
+D:\Work\WebApp\Goku\NetCore-learn-demo\netCore_mongodb\netCore_mongodb\obj\Debug\netcoreapp2.0\netCore_mongodb.dll
+D:\Work\WebApp\Goku\NetCore-learn-demo\netCore_mongodb\netCore_mongodb\obj\Debug\netcoreapp2.0\netCore_mongodb.pdb
