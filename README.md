@@ -13,3 +13,7 @@
 [netCore_swagger ：Asp.net Core 使用Swagger提供API文档](http://www.cnblogs.com/nbfujx/p/8034028.html)</br>
 
 [netCore_redis：Asp.net Core 使用Redis进行数据缓存](http://www.cnblogs.com/nbfujx/p/8037203.html)</br>
+
+[netCore_electron：Asp.net Core 构建跨平台的桌面应用](http://www.cnblogs.com/nbfujx/p/8040293.html)</br>
+
+[netCore_mongodb：Asp.net Core 使用 mongodb](http://www.cnblogs.com/nbfujx/p/8040300.html)</br>
