@@ -1,0 +1,40 @@
+2017-12-18 13:56:15.4955|Microsoft.AspNetCore.Hosting.Internal.WebHost|INFO|Request starting HTTP/1.1 GET http://localhost:50432/api/values   
+2017-12-18 13:56:15.4955|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|INFO|Executing action method netCore_nlog.Controllers.ValuesController.Get (netCore_nlog) with arguments ((null)) - ModelState is Valid 
+2017-12-18 13:56:15.4955|netCore_nlog.Controllers.ValuesController|INFO|普通信息日志----------- 
+2017-12-18 13:56:15.4955|netCore_nlog.Controllers.ValuesController|DEBUG|调试日志----------- 
+2017-12-18 13:56:15.5065|netCore_nlog.Controllers.ValuesController|ERROR|错误日志----------- 
+2017-12-18 13:56:15.5065|netCore_nlog.Controllers.ValuesController|FATAL|异常日志----------- 
+2017-12-18 13:56:15.5065|netCore_nlog.Controllers.ValuesController|WARN|警告日志----------- 
+2017-12-18 13:56:15.5065|netCore_nlog.Controllers.ValuesController|TRACE|跟踪日志----------- 
+2017-12-18 13:56:15.5065|netCore_nlog.Controllers.ValuesController|WARN|Log日志------------------ 
+2017-12-18 13:56:15.5065|Microsoft.AspNetCore.Mvc.Internal.ObjectResultExecutor|INFO|Executing ObjectResult, writing value Microsoft.AspNetCore.Mvc.ControllerContext. 
+2017-12-18 13:56:15.5233|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|INFO|Executed action netCore_nlog.Controllers.ValuesController.Get (netCore_nlog) in 18.3932ms 
+2017-12-18 13:56:15.5233|Microsoft.AspNetCore.Hosting.Internal.WebHost|INFO|Request finished in 31.2355ms 200 application/json; charset=utf-8 
+2017-12-18 13:59:35.1895|Microsoft.AspNetCore.Hosting.Internal.WebHost|INFO|Request starting HTTP/1.1 GET http://localhost:50432/api/values   
+2017-12-18 13:59:35.4437|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|INFO|Executing action method netCore_nlog.Controllers.ValuesController.Get (netCore_nlog) with arguments ((null)) - ModelState is Valid 
+2017-12-18 13:59:35.4484|netCore_nlog.Controllers.ValuesController|INFO|普通信息日志----------- 
+2017-12-18 13:59:35.4484|netCore_nlog.Controllers.ValuesController|DEBUG|调试日志----------- 
+2017-12-18 13:59:35.4484|netCore_nlog.Controllers.ValuesController|ERROR|错误日志----------- 
+2017-12-18 13:59:35.4484|netCore_nlog.Controllers.ValuesController|FATAL|异常日志----------- 
+2017-12-18 13:59:35.4484|netCore_nlog.Controllers.ValuesController|WARN|警告日志----------- 
+2017-12-18 13:59:35.4484|netCore_nlog.Controllers.ValuesController|TRACE|跟踪日志----------- 
+2017-12-18 13:59:35.4613|netCore_nlog.Controllers.ValuesController|WARN|Log日志------------------ 
+2017-12-18 13:59:35.4613|Microsoft.AspNetCore.Mvc.Internal.ObjectResultExecutor|INFO|Executing ObjectResult, writing value Microsoft.AspNetCore.Mvc.ControllerContext. 
+2017-12-18 13:59:35.5469|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|INFO|Executed action netCore_nlog.Controllers.ValuesController.Get (netCore_nlog) in 112.6772ms 
+2017-12-18 13:59:35.5556|Microsoft.AspNetCore.Hosting.Internal.WebHost|INFO|Request finished in 397.5745ms 200 application/json; charset=utf-8 
+2017-12-18 13:59:35.5759|Microsoft.AspNetCore.Hosting.Internal.WebHost|INFO|Request starting HTTP/1.1 GET http://localhost:50432/favicon.ico   
+2017-12-18 13:59:35.5759|Microsoft.AspNetCore.Hosting.Internal.WebHost|INFO|Request finished in 4.2297ms 404  
+2017-12-18 14:01:14.6888|Microsoft.AspNetCore.Hosting.Internal.WebHost|INFO|Request starting HTTP/1.1 GET http://localhost:50432/api/values   
+2017-12-18 14:01:14.9928|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|INFO|Executing action method netCore_nlog.Controllers.ValuesController.Get (netCore_nlog) with arguments ((null)) - ModelState is Valid 
+2017-12-18 14:01:14.9928|netCore_nlog.Controllers.ValuesController|INFO|普通信息日志----------- 
+2017-12-18 14:01:15.0105|netCore_nlog.Controllers.ValuesController|DEBUG|调试日志----------- 
+2017-12-18 14:01:15.0105|netCore_nlog.Controllers.ValuesController|ERROR|错误日志----------- 
+2017-12-18 14:01:15.0105|netCore_nlog.Controllers.ValuesController|FATAL|异常日志----------- 
+2017-12-18 14:01:15.0244|netCore_nlog.Controllers.ValuesController|WARN|警告日志----------- 
+2017-12-18 14:01:15.0244|netCore_nlog.Controllers.ValuesController|TRACE|跟踪日志----------- 
+2017-12-18 14:01:15.0244|netCore_nlog.Controllers.ValuesController|WARN|Log日志------------------ 
+2017-12-18 14:01:15.0442|Microsoft.AspNetCore.Mvc.Internal.ObjectResultExecutor|INFO|Executing ObjectResult, writing value Microsoft.AspNetCore.Mvc.ControllerContext. 
+2017-12-18 14:01:15.1156|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|INFO|Executed action netCore_nlog.Controllers.ValuesController.Get (netCore_nlog) in 132.2398ms 
+2017-12-18 14:01:15.1293|Microsoft.AspNetCore.Hosting.Internal.WebHost|INFO|Request finished in 471.7803ms 200 application/json; charset=utf-8 
+2017-12-18 14:01:15.1494|Microsoft.AspNetCore.Hosting.Internal.WebHost|INFO|Request starting HTTP/1.1 GET http://localhost:50432/favicon.ico   
+2017-12-18 14:01:15.1494|Microsoft.AspNetCore.Hosting.Internal.WebHost|INFO|Request finished in 5.7522ms 404  

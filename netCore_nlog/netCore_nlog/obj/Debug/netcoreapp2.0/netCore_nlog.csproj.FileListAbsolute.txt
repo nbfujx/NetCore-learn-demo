@@ -1,0 +1,11 @@
+D:\Work\WebApp\Goku\NetCore-learn-demo\netCore_nlog\netCore_nlog\bin\Debug\netcoreapp2.0\netCore_nlog.deps.json
+D:\Work\WebApp\Goku\NetCore-learn-demo\netCore_nlog\netCore_nlog\bin\Debug\netcoreapp2.0\netCore_nlog.runtimeconfig.json
+D:\Work\WebApp\Goku\NetCore-learn-demo\netCore_nlog\netCore_nlog\bin\Debug\netcoreapp2.0\netCore_nlog.runtimeconfig.dev.json
+D:\Work\WebApp\Goku\NetCore-learn-demo\netCore_nlog\netCore_nlog\bin\Debug\netcoreapp2.0\netCore_nlog.dll
+D:\Work\WebApp\Goku\NetCore-learn-demo\netCore_nlog\netCore_nlog\obj\Debug\netcoreapp2.0\netCore_nlog.csprojResolveAssemblyReference.cache
+D:\Work\WebApp\Goku\NetCore-learn-demo\netCore_nlog\netCore_nlog\obj\Debug\netcoreapp2.0\netCore_nlog.csproj.CoreCompileInputs.cache
+D:\Work\WebApp\Goku\NetCore-learn-demo\netCore_nlog\netCore_nlog\obj\Debug\netcoreapp2.0\netCore_nlog.AssemblyInfoInputs.cache
+D:\Work\WebApp\Goku\NetCore-learn-demo\netCore_nlog\netCore_nlog\obj\Debug\netcoreapp2.0\netCore_nlog.AssemblyInfo.cs
+D:\Work\WebApp\Goku\NetCore-learn-demo\netCore_nlog\netCore_nlog\bin\Debug\netcoreapp2.0\netCore_nlog.pdb
+D:\Work\WebApp\Goku\NetCore-learn-demo\netCore_nlog\netCore_nlog\obj\Debug\netcoreapp2.0\netCore_nlog.dll
+D:\Work\WebApp\Goku\NetCore-learn-demo\netCore_nlog\netCore_nlog\obj\Debug\netcoreapp2.0\netCore_nlog.pdb

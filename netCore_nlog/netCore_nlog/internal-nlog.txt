@@ -1,0 +1,2 @@
+2017-12-18 13:59:32.9402 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: console
+2017-12-18 13:59:32.9444 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: debugger
