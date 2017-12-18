@@ -3,7 +3,7 @@
 To activate and communicate with the "native" (sort of native...) Electron API include the [ElectronNET.API NuGet package](https://www.nuget.org/packages/ElectronNET.API/) in your ASP.NET Core app.
 
 ````
-PM> Install-Package ElectronNET.API
+dotnet add package ElectronNET.API --version 0.0.7
 ````
 ## Program.cs
 
